@@ -8,5 +8,5 @@ const order1 = {
 
 const order2 = { entre, price };
 
-console.log(`order1: ${JSON.stringify(order1)}`)
-console.log(`order2: ${JSON.stringify(order2)}`)
+console.log(`order1: ${JSON.stringify(order1)}`);
+console.log(`order2: ${JSON.stringify(order2)}`);
